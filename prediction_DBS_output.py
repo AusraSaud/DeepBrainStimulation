@@ -360,7 +360,7 @@ def prediction_DBS(X, y, N = 10, scaler = scaler, df=df):
         np.save(f, tprs)
 
 
-N_runs=2
+N_runs=1000
 
 
 prediction_DBS(X, y, N_runs)
