@@ -49,7 +49,7 @@ will present Spearman correlation coefficients between the selected radiomic fea
 ![Fig3_radiomic_features_correlations](figures/Fig3_radiomic_features_correlations.png)
 
 
-Need to run [DBS outcome prediction](1-dbs-outcome-prediction) before this:
+Need to run [DBS outcome prediction](#1-dbs-outcome-prediction) before this:
 ```
 python Fig4_ROC.py
 ```
