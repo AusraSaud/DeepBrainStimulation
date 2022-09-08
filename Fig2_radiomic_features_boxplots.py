@@ -1,5 +1,5 @@
 #Prediction of subthalamic deep brain stimulation motor outcomes for Parkinson‘s disease patients
-#Radziunas A., Saudargiene A., et al. 2022
+#Saudargiene A., Radziunas A. et al. 2022
 
 #Boxplots of selected radiomic features in two classes: 
 #poor DBS outcome vs good/very good DBS outcome

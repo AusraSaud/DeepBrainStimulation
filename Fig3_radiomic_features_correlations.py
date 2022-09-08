@@ -1,5 +1,5 @@
 #Prediction of subthalamic deep brain stimulation motor outcomes for Parkinson‘s disease patients
-#Radziunas A., Saudargiene A., et al. 2022
+#Saudargiene A., Radziunas A. et al. 2022
 
 #Spearman correlation coefficients between the selected radiomic features
 

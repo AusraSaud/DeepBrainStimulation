@@ -1,5 +1,5 @@
 #Prediction of subthalamic deep brain stimulation motor outcomes for Parkinson‘s disease patients
-#Radziunas A., Saudargiene A., et al. 2022
+#Saudargiene A., Radziunas A. et al. 2022
 
 #Statistical and Machine learning algorithms for deep brain stimulation motor outcome prediction:
 #0 - Binary Logistic Regression

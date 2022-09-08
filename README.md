@@ -1,6 +1,6 @@
 # Prediction of subthalamic deep brain stimulation motor outcomes for Parkinson‘s disease patients
 
-Radziunas A., Saudargiene A., et al. 2022
+#Saudargiene A., Radziunas A. et al. 2022
 
 The goal of the study is to predict the subthalamic nucleus (STN) deep brain stimulation (DBS) outcomes for Parkinson’s disease (PD) patients using the selected radiomic features extracted from pre-operative magnetic resonance images. Minimum Redundancy Maximum Relevance (mRMR) feature selection method was used to select the most relevant features out of 5040 total radiomic features. The resulting 20 features were used to discriminate the patients into two classes of poor vs good/very good STN-DBS motor outcome using statistical and machine learning algorithms.
 
@@ -30,7 +30,7 @@ will run 8 statistical and machine learning algorithms to discriminate between p
 3 - Decision Tree Classifier
 4 - Support Vector Machine
 5 - Deep Neural Network
-6 - Onle Class Support Vector Machine
+6 - One Class Support Vector Machine
 7 - Deep Autoencoder
 ```
 
